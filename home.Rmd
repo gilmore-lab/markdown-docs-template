@@ -1,0 +1,25 @@
+---
+output: 
+  html_document:
+    toc: true
+    toc_levels: 3
+    toc_float: true
+    number_sections: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Weather
+
+## Winter
+
+Here's a page about [snow](snow.html).
+
+## item
+
+### subitem
+
+# level 2
+

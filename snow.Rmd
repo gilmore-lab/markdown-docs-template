@@ -1,0 +1,29 @@
+---
+output: 
+  html_document:
+    toc: true
+    toc_levels: 3
+    toc_float: true
+    number_sections: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Kinds of snow
+
+## Fluffy
+
+Rick likes this.
+
+## Heavy
+
+### Wet
+
+Rick's least favorite.
+
+# level 2
+
+Here is a link back to section 2 of the home page [link](home.html#2_level_2)
+
